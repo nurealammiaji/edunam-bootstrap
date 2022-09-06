@@ -7,3 +7,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* Carousel Styles */
+
+.carousel-img{
+    width: 1320px;
+    height: 700px;
+}
